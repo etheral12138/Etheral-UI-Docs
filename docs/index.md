@@ -19,10 +19,10 @@ hero:
 features:
   - icon: 💡
     title: Vue3组件库
-    details: 基于vite打包和TypeScript开发
+    details: 基于Vite打包和TypeScript开发
   - icon: 📦
-    title: 仅供学习使用
-    details: 倾向于Vue3组件库的学习，请勿用于实际生产项目
+    title: 自动化
+    details: 使用Vite和Gulp自动化打包发布
   - icon: 🛠️
     title: 按需引入
     details: 直接支持按需引入无需配置任何插件。
