@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Etheral-UI
+title: et-design
 titleTemplate: 一个Vue3组件库
 hero:
-  name: Etheral-UI
+  name: et-design
   text: Vue3组件库
   tagline: 欢迎参与项目开发
   image: 
@@ -15,7 +15,7 @@ hero:
       link: /guide/installation
     - theme: alt
       text: 在 GitHub 上查看
-      link: https://github.com/etheral12138/Etheral-UI
+      link: https://github.com/etheral12138/et-design
 features:
   - icon: 💡
     title: Vue3组件库
