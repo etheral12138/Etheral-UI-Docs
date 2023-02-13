@@ -10,6 +10,6 @@
 </template>
 
 <script setup>
-    import { Button } from 'etheral-ui'
+    import { Button } from 'et-design'
 </script>
 ```

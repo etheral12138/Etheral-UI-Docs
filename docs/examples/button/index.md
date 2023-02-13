@@ -4,10 +4,6 @@
         border-radius: 5px;
         padding:20px
     }
-    .el-button {
-        margin:10px 5px
-    }
-    
     details > summary:first-of-type {
         font-size: 10px;
         padding: 8px 0;

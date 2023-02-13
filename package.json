@@ -20,5 +20,8 @@
   },
   "devDependencies": {
     "vitepress": "1.0.0-alpha.45"
+  },
+  "dependencies": {
+    "et-design": "^1.0.2"
   }
 }
