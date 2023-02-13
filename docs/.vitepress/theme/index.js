@@ -1,7 +1,6 @@
 import DefaultTheme from "vitepress/theme";
 import etdesign from "et-design";
-import "et-design/lib/src/icon/style/index.css";
-import "et-design/lib/src/button/style/index.css"
+import "et-design/es/src/index.css";
 export default {
     ...DefaultTheme,
     enhanceApp: async ({ app, router, siteData }) => {
