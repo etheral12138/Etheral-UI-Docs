@@ -18,3 +18,4 @@
 
 使用 type、plain、round 和 circle 来定义按钮的样式。
 
+<et-button title="危险" class="-button--danger"></et-button>
