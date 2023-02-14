@@ -1,32 +1,26 @@
 {
-  "hash": "6e9aed65",
-  "browserHash": "e309aaa7",
+  "hash": "890c13cb",
+  "browserHash": "ba7a0472",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/.pnpm/vue@3.2.47/node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "f95a3a0b",
+      "fileHash": "b62f8ebb",
       "needsInterop": false
     },
     "et-design": {
-      "src": "../../../../node_modules/.pnpm/et-design@1.0.2/node_modules/et-design/es/index.mjs",
+      "src": "../../../../node_modules/.pnpm/et-design@1.0.6/node_modules/et-design/es/index.mjs",
       "file": "et-design.js",
-      "fileHash": "419f8452",
+      "fileHash": "3c9438ce",
       "needsInterop": false
-    },
-    "et-design/lib/src/icon/font/iconfont": {
-      "src": "../../../../node_modules/.pnpm/et-design@1.0.2/node_modules/et-design/lib/src/icon/font/iconfont.js",
-      "file": "et-design_lib_src_icon_font_iconfont.js",
-      "fileHash": "061b7925",
-      "needsInterop": true
     }
   },
   "chunks": {
     "chunk-LZPJ5JBW": {
       "file": "chunk-LZPJ5JBW.js"
     },
-    "iconfont-UMQIDKJ3": {
-      "file": "iconfont-UMQIDKJ3.js"
+    "iconfont-2UMHJG4D": {
+      "file": "iconfont-2UMHJG4D.js"
     }
   }
 }
